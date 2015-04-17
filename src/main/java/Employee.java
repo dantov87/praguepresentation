@@ -2,11 +2,10 @@
  * Created by dtovar on 16.4.2015.
  */
 public class Employee {
-    private String name_;
-    private String _lastName;
+    private String name;
+    private String change1;
+    private String changeg2;
 
-    //comment
-
-    ///comment1
-    private Long code;
+    private String last_Name;
+    private Long code_;
 }
